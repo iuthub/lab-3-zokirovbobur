@@ -21,11 +21,13 @@ body{
     background-color: #E8FBFB;
     padding: 5px;
     margin-top: 10px;
+    height: 200px;
 }
 .date{
     border-bottom: 2px blue dashed;
 }
 .img{
     float: right;
+    
 }
 
