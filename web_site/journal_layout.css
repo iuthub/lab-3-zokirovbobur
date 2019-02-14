@@ -1,0 +1,31 @@
+body{
+    background-image:url(
+        "https://images.pexels.com/photos/268415/pexels-photo-268415.jpeg?cs=srgb&dl=art-background-blue-268415.jpg&fm=jpg");
+}
+#bodyDiv{
+    border: 10px white solid;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#mainHeader{
+    background-color: #A8F0F0; 
+    
+    text-align: right;
+}
+#secondHeader{
+    font-size: 14pt;
+}
+.article{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+}
+.date{
+    border-bottom: 2px blue dashed;
+}
+.img{
+    float: right;
+}
+
